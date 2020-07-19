@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: John Doe
-tagline: Web Designer
+title: Mahesh Maharjan
+tagline: Developer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
