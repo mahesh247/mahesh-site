@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "John Doe",
+    "title": "Mahesh Maharjan",
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://www.mahesh-maharjan.com.np",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@me.mahesh247"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
